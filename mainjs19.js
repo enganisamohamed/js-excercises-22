@@ -1,5 +1,4 @@
-const grade = 88;
-const result = grade >= 60? "pass" : "fail";
-console.log (result)
-
-
+const numbers = [1,2,3,4,5]
+numbers.forEach( numbers => {
+console.log (numbers)
+})
